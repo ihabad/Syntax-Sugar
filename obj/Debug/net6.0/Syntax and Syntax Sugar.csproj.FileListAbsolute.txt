@@ -1,0 +1,15 @@
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\net6.0\Syntax and Syntax Sugar.exe
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\net6.0\Syntax and Syntax Sugar.deps.json
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\net6.0\Syntax and Syntax Sugar.runtimeconfig.json
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\net6.0\Syntax and Syntax Sugar.dll
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\bin\Debug\net6.0\Syntax and Syntax Sugar.pdb
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.csproj.AssemblyReference.cache
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.AssemblyInfoInputs.cache
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.AssemblyInfo.cs
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.csproj.CoreCompileInputs.cache
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.dll
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\refint\Syntax and Syntax Sugar.dll
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.pdb
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\Syntax and Syntax Sugar.genruntimeconfig.cache
+C:\Users\ihaba\Desktop\repos\Syntax and Syntax Sugar\Syntax and Syntax Sugar\obj\Debug\net6.0\ref\Syntax and Syntax Sugar.dll
